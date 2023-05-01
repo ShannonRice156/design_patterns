@@ -1,0 +1,3 @@
+peas,8,40
+choc,5,50
+raddish,6,10

@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\srice\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
+}
